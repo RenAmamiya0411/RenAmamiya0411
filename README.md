@@ -1,4 +1,4 @@
-# Hi, I'm Steven Falcon
+# :wave: Hi, I'm Steven Falcon
 
 > _Always wanted to be a web developer. Took an engineering detour, graduated, and came back to where it started._
 
