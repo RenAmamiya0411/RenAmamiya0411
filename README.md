@@ -4,7 +4,7 @@
 
 I am a Instrumentation and Control Engineering graduate, but always had a passion for coding and web development.
 
-## Check out my work here: https://srhfalcon.vercel.app/
+### Check out my work here: https://srhfalcon.vercel.app/
 
 ---
 
@@ -48,3 +48,9 @@ I am a Instrumentation and Control Engineering graduate, but always had a passio
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
 </div>
+
+---
+
+## Get in Touch
+
+Email me at: [falconsteven25@gmail.com](mailto:falconsteven25@gmail.com)
