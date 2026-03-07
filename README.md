@@ -56,6 +56,8 @@ I am a Instrumentation and Control Engineering graduate, but always had a passio
 - [ ] Next.js
 - [ ] PostgreSQL
 
+---
+
 ## :mailbox_with_mail: Get in Touch
 
 Contact Me: [falconsteven25@gmail.com](mailto:falconsteven25@gmail.com) . [LinkedIn](https://www.linkedin.com/in/steven-ray-harvey-falcon-62479b35b/)
