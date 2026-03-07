@@ -8,7 +8,7 @@ I am a Instrumentation and Control Engineering graduate, but always had a passio
 
 ---
 
-## Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 ### Frontend
 
@@ -51,12 +51,12 @@ I am a Instrumentation and Control Engineering graduate, but always had a passio
 
 ---
 
-## What's Next?
+## :dart: What's Next?
 
 - [ ] Next.js
 - [ ] PostgreSQL
 
-## Get in Touch
+## :mailbox_with_mail: Get in Touch
 
 Contact Me: [falconsteven25@gmail.com](mailto:falconsteven25@gmail.com) . [LinkedIn](https://www.linkedin.com/in/steven-ray-harvey-falcon-62479b35b/)
 
