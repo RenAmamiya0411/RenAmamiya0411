@@ -1,10 +1,14 @@
+<div align="center">
+
 # :wave: Hi, I'm Steven Falcon
 
 > _Always wanted to be a web developer. Took an engineering detour, graduated, and came back to where it started._
 
-I am a Instrumentation and Control Engineering graduate, but always had a passion for coding and web development.
+</div>
 
-### Check out my work here: https://srhfalcon.vercel.app/
+I am an Instrumentation and Control Engineering graduate, but always had a passion for coding and web development.
+
+> **Portfolio**: [Steven's Portfolio](https://srhfalcon.vercel.app/)
 
 ---
 
@@ -60,6 +64,6 @@ I am a Instrumentation and Control Engineering graduate, but always had a passio
 
 ## :mailbox_with_mail: Get in Touch
 
-Contact Me: [falconsteven25@gmail.com](mailto:falconsteven25@gmail.com) . [LinkedIn](https://www.linkedin.com/in/steven-ray-harvey-falcon-62479b35b/)
+Contact Me: [falconsteven25@gmail.com](mailto:falconsteven25@gmail.com) · [LinkedIn](https://www.linkedin.com/in/steven-ray-harvey-falcon-62479b35b/)
 
 ---
