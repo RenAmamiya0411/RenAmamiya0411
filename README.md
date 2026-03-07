@@ -53,7 +53,6 @@ I am a Instrumentation and Control Engineering graduate, but always had a passio
 
 ## Get in Touch
 
-Email me at: [falconsteven25@gmail.com](mailto:falconsteven25@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/steven-ray-harvey-falcon-62479b35b/)
+Email me at: [falconsteven25@gmail.com](mailto:falconsteven25@gmail.com) . [LinkedIn](https://www.linkedin.com/in/steven-ray-harvey-falcon-62479b35b/)
 
 ---
