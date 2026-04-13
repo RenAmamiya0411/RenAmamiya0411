@@ -60,7 +60,8 @@ I am an Instrumentation and Control Engineering graduate, but always had a passi
 
 - [ ] Next.js
 - [ ] PostgreSQL
-
+- [ ] Prisma
+      
 ---
 
 ## :mailbox_with_mail: Get in Touch
