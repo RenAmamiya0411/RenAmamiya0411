@@ -54,7 +54,7 @@ I am an Instrumentation and Control Engineering graduate, but always had a passi
 <div align="center">
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextauth&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 </div>
 
