@@ -77,7 +77,12 @@ I am an Instrumentation and Control Engineering graduate, but always had a passi
 
 ## :dart: What's Next?
 
-- [ ] Focus on clean architecture and scalable code practices
+- [ ] TanStack Query (React Query) for server-state management
+- [ ] Zustand for lightweight client-state management
+- [ ] Redis for caching/session storage
+- [ ] Vitest / Jest for testing
+- [ ] GitHub Actions for CI/CD
+- [ ] Redux Toolkit (familiarity for interviews/legacy codebases)
       
 ---
 
